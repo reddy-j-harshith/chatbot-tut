@@ -1,5 +1,7 @@
-ctransformers==0.2.5
+ctransformers
 sentence-transformers==2.2.2
-pinecone-client==3.2.2
-langchain==0.0.255
+pinecone-client
+langchain
 flask
+langchain_pinecone
+
