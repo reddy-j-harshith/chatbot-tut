@@ -5,3 +5,4 @@ langchain
 flask
 langchain_pinecone
 pypdf
+-e .
