@@ -4,4 +4,4 @@ pinecone-client
 langchain
 flask
 langchain_pinecone
-
+pypdf
