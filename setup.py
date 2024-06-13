@@ -1,11 +1,9 @@
-from gettext import install
 from setuptools import setup, find_packages
 
 setup(
-    name = 'Munnabh-AI',
+    name = 'tutorial',
     version = '0.0.0',
-    author = ['Harshith Reddy',
-               'Jaitra Saketh'],
+    author = 'Harshith Reddy',
     packages = find_packages(),
     install_requires = []
 
